@@ -1,6 +1,10 @@
 {
   "links": [
-    "https://github.com",
-    "https://swift.org"
+    "https://raw.githubusercontent.com/dreymonde/LiveEndpoint/master/Points/Dek.json",
+    "https://raw.githubusercontent.com/dreymonde/LiveEndpoint/master/Points/Unu.json",
+    "https://raw.githubusercontent.com/dreymonde/LiveEndpoint/master/Points/Du.json",
+    "https://raw.githubusercontent.com/dreymonde/LiveEndpoint/master/Points/Tri.json",
+    "https://raw.githubusercontent.com/dreymonde/LiveEndpoint/master/Points/Kvar.json",
+    "https://raw.githubusercontent.com/dreymonde/LiveEndpoint/master/Points/Kvin.json",
   ]
 }
